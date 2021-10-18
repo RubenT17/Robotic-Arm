@@ -51,7 +51,7 @@ Conexión de pines:
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/RubenT17/Prueba/blob/main/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING](https://github.com/RubenT17/Prueba/blob/main/CONTRIBUTING) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 
 ## Autores ✒️
