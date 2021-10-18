@@ -56,7 +56,7 @@ Por favor lee el [CONTRIBUTING](https://github.com/RubenT17/Prueba/blob/main/CON
 
 ## Autores ✒️
 
-* **Rubén Torres Bermúdez** - *Proyecto* - [RubenT17](https://github.com/RubenT17)
+* **Rubén Torres Bermúdez** - *Creador* - [RubenT17](https://github.com/RubenT17)
 
 
 ## Licencia 📄
