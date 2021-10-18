@@ -19,6 +19,7 @@ Instrucciones de Serial:
 - "reposo\n": Para poner/quitar el brazo robótico en modo reposo.
 
 Conexión de pines:
+
     DIGITAL:
     - Pin 0: Vacío.
     - Pin 1: Vacío.
@@ -34,6 +35,7 @@ Conexión de pines:
     - Pin 11 (PWM): Cerrar Pinza
     - Pin 12: Abrir Pinza
     - Pin 13: Vacío.
+    
     ANALÓGICO:
     - A0: Eje X.1
     - A1: Eje Y.1
