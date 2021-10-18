@@ -181,7 +181,7 @@ void serial () {
     Serial.print ("Modo Reposo: ");
       if (flag)
         Serial.println ("ON");
-      if (!flag)
+      else
         Serial.println ("OFF");    
     Serial.print ("Valor x1: ");
     Serial.println (x1);
