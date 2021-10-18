@@ -12,7 +12,8 @@ Los requisitos para ejecutar este proyecto son:
 
 ## Despliegue 📦
 
-Cada grado de libertad se moverá con su joystick. 
+Cada grado de libertad se moverá con su joystick.
+
 Instrucciones de Serial:
 - "info\n": Para ver la información del brazo robótico.
 - "reposo\n": Para poner/quitar el brazo robótico en modo reposo.
@@ -48,7 +49,7 @@ Conexión de pines:
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/RubenT17/Prueba/blob/main/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 
 ## Autores ✒️
@@ -58,7 +59,7 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia GNU - mira el archivo [LICENSE](https://github.com/RubenT17/Prueba/blob/main/LICENSE) para más detalles.
 
 
 ## Expresiones de Gratitud 🎁
