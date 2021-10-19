@@ -68,3 +68,9 @@ Este proyecto está bajo la Licencia GNU - mire el archivo [LICENSE](https://git
 * Comenta a otros sobre este proyecto 📢
 * Da las gracias públicamente 🤓.
 * etc.
+
+
+## Excepción de responsabilidades
+
+El presente proyecto se comparte "tal cual" con el único objetivo de que sea útil.
+El/los creadores del presente hardware y su software asociado no pueden garantizar sucorrecto funcionamiento bajo ninguna circunstancia. El/Los autor/es de este proyecto no podrá/n hacerse responsable/s de cualquier pérdida de carácter material, personal o económico a su persona o terceros derivados de la utilización del mismo. Este proyecto no deberá ser utilizado bajo ninguna circustancia en sistemas de carácter crítico o sistemas de los cuales dependan vidas de personas de manera directa o indirecta.
