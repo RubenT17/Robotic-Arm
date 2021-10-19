@@ -51,7 +51,7 @@ Conexión de pines:
 
 ## Contribuyendo 🖇️
 
-Por favor, lea el [CONTRIBUTING](https://github.com/RubenT17/Prueba/blob/main/CONTRIBUTING) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor, lea el [CONTRIBUTING](https://github.com/RubenT17/Robotic-Arm/blob/main/CONTRIBUTING) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 
 ## Autores ✒️
@@ -61,7 +61,7 @@ Por favor, lea el [CONTRIBUTING](https://github.com/RubenT17/Prueba/blob/main/CO
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU - mire el archivo [LICENSE](https://github.com/RubenT17/Prueba/blob/main/LICENSE) para más detalles.
+Este proyecto está bajo la Licencia GNU - mire el archivo [LICENSE](https://github.com/RubenT17/Robotic-Arm/blob/main/LICENSE) para más detalles.
 
 
 ## Expresiones de Gratitud 🎁
